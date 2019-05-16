@@ -1,0 +1,6 @@
+"Type";"Beløb";"Dato";"Tid";"Besked";"Gebyr";"Saldo"
+"Gebyr";0,75;01-07-2018;03:08;"Gebyr";;5,25
+"Overførsel";5,25;01-07-2018;03:08;"Udbetaling til konto";0,75;0,00
+"Salg";10,00;18-07-2018;10:07;"";0,75;10,00
+"Gebyr";0,75;19-07-2018;03:09;"Gebyr";;9,25
+"Overførsel";9,25;19-07-2018;03:09;"Udbetaling til konto";0,75;0,00
