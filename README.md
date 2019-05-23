@@ -13,11 +13,16 @@ afbenyttelse.
 ## Ønsker du mere data?
 
 [Slå en sag op](https://github.com/kantinen/data/issues/new), og
-fortæl os om hvad du vil have. Det er dog meget muligt at du dermed
-selv sendes ud på data-indsamling!
+fortæl os om hvad du vil have.
 
-Kantinen er en frivillig forening, med en begrænset menneskelig
-ressource. Trænger man til noget, må man ofte gøre det selv!
+Det er dog meget muligt at du dermed selv sendes ud på
+data-indsamling! Kantinen er en frivillig forening, med en begrænset
+menneskelig ressource. Trænger man til noget, må man ofte gøre det
+selv!
+
+Det du kan forlange er at efter en passende sikkerhedsevaluering, får
+du adgang til den relevante datakilde, og vejledning til hvordan du
+indsamler dataen. Mere kan vi ikke love på forhånd.
 
 ## Har du lavet en sjov analyse?
 
