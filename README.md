@@ -27,9 +27,10 @@ indsamler dataen. Mere kan vi ikke love på forhånd.
 ## Har du lavet en sjov analyse?
 
 Så [slå en sag op](https://github.com/kantinen/data/issues/new), eller
-lav en haleanmodning. Vi så gerne at dine analyser blev automatiseret
-og integreret, således at din kode kan gøre gavn for studerende på
-Datalogisk institut i måneder, år, og årtier ude i fremtiden!
+[lav en haleanmodning](https://github.com/kantinen/data/compare). Vi
+så gerne at dine analyser blev automatiseret og integreret, således at
+din kode kan gøre gavn for studerende på Datalogisk institut i
+måneder, år, og årtier ude i fremtiden!
 
 ## Hvordan kontakter jeg ellers bestyrelsen?
 
