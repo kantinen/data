@@ -6,7 +6,7 @@ studerende, for de studerende.
 Kantinen går nu med på moden, og åbner op for visse data til fri
 afbenyttelse.
 
-## Data Gennem Årene
+## Data gennem årene
 
 * [2018](2018)
 
