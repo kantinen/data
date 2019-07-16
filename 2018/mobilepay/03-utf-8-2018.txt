@@ -1,1 +1,1 @@
-{'Gebyrer': 18135, 'Overførsel': 357015, 'Refundering': 0, 'Slik': 0, 'Øl & Vand': 4500, 'Buffet': 370350}
+{'Gebyrer': 18135, 'Overførsel': 357015, 'Refundering': 0, 'Påskeevent': 254300, 'Slik': 0, 'Buffet': 116550, 'Øl & Vand': 4000}
