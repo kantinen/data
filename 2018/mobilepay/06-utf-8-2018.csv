@@ -1,0 +1,137 @@
+kind,amount,dt,msg,fee,balance,category
+Gebyr,525,01.06.2018 03:06,Gebyr,,9575,Gebyrer
+Overførsel,9575,01.06.2018 03:06,Udbetaling til konto,525,0,Overførsel
+Salg,2000,01.06.2018 09:16,,75,2000,Buffet
+Salg,1200,01.06.2018 15:50,,75,3200,Buffet
+Salg,1400,01.06.2018 15:51,,75,4600,Buffet
+Salg,1400,01.06.2018 16:26,,75,6000,Buffet
+Salg,500,01.06.2018 21:35,,75,6500,Buffet
+Salg,500,01.06.2018 22:54,,75,7000,Buffet
+Gebyr,450,02.06.2018 03:06,Gebyr,,6550,Gebyrer
+Overførsel,6550,02.06.2018 03:06,Udbetaling til konto,450,0,Overførsel
+Salg,1400,02.06.2018 16:34,,75,1400,Buffet
+Salg,600,03.06.2018 01:36,,75,2000,Buffet
+Gebyr,150,03.06.2018 03:05,Gebyr,,1850,Gebyrer
+Overførsel,1850,03.06.2018 03:05,Udbetaling til konto,150,0,Overførsel
+Salg,1400,03.06.2018 12:25,,75,1400,Buffet
+Salg,300,03.06.2018 14:25,,75,1700,Buffet
+Salg,1300,03.06.2018 14:34,,75,3000,Buffet
+Salg,1000,03.06.2018 16:23,,75,4000,Buffet
+Salg,1300,03.06.2018 19:28,,75,5300,Buffet
+Salg,1300,04.06.2018 00:46,,75,6600,Buffet
+Gebyr,450,04.06.2018 03:05,Gebyr,,6150,Gebyrer
+Overførsel,6150,04.06.2018 03:05,Udbetaling til konto,450,0,Overførsel
+Salg,800,04.06.2018 16:30,,75,800,Buffet
+Salg,1000,04.06.2018 23:12,,75,1800,Buffet
+Gebyr,150,05.06.2018 03:06,Gebyr,,1650,Gebyrer
+Overførsel,1650,05.06.2018 03:06,Udbetaling til konto,150,0,Overførsel
+Salg,1000,05.06.2018 11:20,,75,1000,Buffet
+Salg,500,05.06.2018 12:11,,75,1500,Buffet
+Salg,500,05.06.2018 12:14,,75,2000,Buffet
+Salg,1000,05.06.2018 12:22,,75,3000,Buffet
+Salg,1400,05.06.2018 13:12,Koldskål,75,4400,Buffet
+Salg,1000,05.06.2018 13:13,,75,5400,Buffet
+Salg,900,05.06.2018 13:13,,75,6300,Buffet
+Salg,1900,05.06.2018 13:44,,75,8200,Buffet
+Salg,500,05.06.2018 13:44,,75,8700,Buffet
+Salg,1000,05.06.2018 13:47,,75,9700,Buffet
+Salg,1400,05.06.2018 14:02,,75,11100,Buffet
+Salg,400,05.06.2018 14:21,,75,11500,Buffet
+Salg,1000,05.06.2018 16:15,,75,12500,Buffet
+Salg,1000,05.06.2018 16:18,,75,13500,Buffet
+Salg,1000,05.06.2018 16:22,,75,14500,Buffet
+Salg,400,05.06.2018 17:01,,75,14900,Buffet
+Salg,1400,05.06.2018 19:21,,75,16300,Buffet
+Salg,1400,05.06.2018 19:37,,75,17700,Buffet
+Salg,1400,05.06.2018 20:43,,75,19100,Buffet
+Salg,1400,06.06.2018 00:42,,75,20500,Buffet
+Gebyr,1500,06.06.2018 03:05,Gebyr,,19000,Gebyrer
+Overførsel,19000,06.06.2018 03:05,Udbetaling til konto,1500,0,Overførsel
+Salg,800,06.06.2018 09:19,,75,800,Buffet
+Salg,1400,06.06.2018 14:30,,75,2200,Buffet
+Salg,1000,06.06.2018 19:07,,75,3200,Buffet
+Gebyr,225,07.06.2018 03:06,Gebyr,,2975,Gebyrer
+Overførsel,2975,07.06.2018 03:06,Udbetaling til konto,225,0,Overførsel
+Salg,1000,07.06.2018 10:28,Tåst,75,1000,Buffet
+Salg,1000,07.06.2018 16:22,,75,2000,Buffet
+Salg,1000,07.06.2018 17:02,,75,3000,Buffet
+Salg,6000,07.06.2018 18:37,Øl,75,9000,Øl & Vand
+Gebyr,300,08.06.2018 03:06,Gebyr,,8700,Gebyrer
+Overførsel,8700,08.06.2018 03:06,Udbetaling til konto,300,0,Overførsel
+Salg,650,08.06.2018 14:18,,75,650,Buffet
+Gebyr,75,09.06.2018 03:06,Gebyr,,575,Gebyrer
+Overførsel,575,09.06.2018 03:06,Udbetaling til konto,75,0,Overførsel
+Salg,1000,09.06.2018 13:55,,75,1000,Buffet
+Salg,1000,09.06.2018 14:50,,75,2000,Buffet
+Gebyr,150,10.06.2018 03:06,Gebyr,,1850,Gebyrer
+Overførsel,1850,10.06.2018 03:06,Udbetaling til konto,150,0,Overførsel
+Salg,500,10.06.2018 09:49,,75,500,Buffet
+Gebyr,75,11.06.2018 03:05,Gebyr,,425,Gebyrer
+Overførsel,425,11.06.2018 03:05,Udbetaling til konto,75,0,Overførsel
+Salg,1400,11.06.2018 13:19,,75,1400,Buffet
+Salg,1000,11.06.2018 13:24,,75,2400,Buffet
+Salg,1400,11.06.2018 16:03,,75,3800,Buffet
+Salg,500,11.06.2018 16:05,,75,4300,Buffet
+Salg,1400,11.06.2018 16:06,,75,5700,Buffet
+Salg,1400,11.06.2018 18:09,,75,7100,Buffet
+Gebyr,450,12.06.2018 03:06,Gebyr,,6650,Gebyrer
+Overførsel,6650,12.06.2018 03:06,Udbetaling til konto,450,0,Overførsel
+Salg,1400,12.06.2018 11:34,,75,1400,Buffet
+Salg,500,12.06.2018 19:06,,75,1900,Buffet
+Salg,500,12.06.2018 19:33,,75,2400,Buffet
+Salg,1000,12.06.2018 19:35,,75,3400,Buffet
+Gebyr,300,13.06.2018 03:07,Gebyr,,3100,Gebyrer
+Overførsel,3100,13.06.2018 03:07,Udbetaling til konto,300,0,Overførsel
+Salg,500,13.06.2018 10:32,,75,500,Buffet
+Salg,5000,13.06.2018 19:11,,75,5500,Buffet
+Gebyr,150,14.06.2018 03:06,Gebyr,,5350,Gebyrer
+Overførsel,5350,14.06.2018 03:06,Udbetaling til konto,150,0,Overførsel
+Salg,1000,14.06.2018 13:22,,75,1000,Buffet
+Salg,1400,14.06.2018 14:41,,75,2400,Buffet
+Salg,1200,14.06.2018 15:38,,75,3600,Buffet
+Salg,900,14.06.2018 15:39,,75,4500,Buffet
+Salg,1000,14.06.2018 18:57,,75,5500,Buffet
+Salg,500,14.06.2018 19:26,,75,6000,Buffet
+Salg,500,14.06.2018 22:54,,75,6500,Buffet
+Salg,500,14.06.2018 23:04,,75,7000,Buffet
+Salg,500,15.06.2018 00:35,,75,7500,Buffet
+Gebyr,675,15.06.2018 03:06,Gebyr,,6825,Gebyrer
+Overførsel,6825,15.06.2018 03:06,Udbetaling til konto,675,0,Overførsel
+Salg,500,15.06.2018 04:33,,75,500,Buffet
+Salg,500,15.06.2018 13:16,,75,1000,Buffet
+Salg,1000,15.06.2018 19:13,,75,2000,Buffet
+Gebyr,225,16.06.2018 03:06,Gebyr,,1775,Gebyrer
+Overførsel,1775,16.06.2018 03:06,Udbetaling til konto,225,0,Overførsel
+Salg,1000,18.06.2018 15:47,,75,1000,Buffet
+Salg,1000,18.06.2018 15:51,,75,2000,Buffet
+Gebyr,150,19.06.2018 03:07,Gebyr,,1850,Gebyrer
+Overførsel,1850,19.06.2018 03:07,Udbetaling til konto,150,0,Overførsel
+Salg,500,19.06.2018 09:41,,75,500,Buffet
+Salg,1400,19.06.2018 10:45,,75,1900,Buffet
+Salg,1000,19.06.2018 11:38,,75,2900,Buffet
+Salg,1000,19.06.2018 13:48,,75,3900,Buffet
+Salg,500,19.06.2018 15:02,,75,4400,Buffet
+Salg,500,19.06.2018 16:38,,75,4900,Buffet
+Salg,1000,19.06.2018 19:49,,75,5900,Buffet
+Salg,500,20.06.2018 01:44,,75,6400,Buffet
+Gebyr,600,20.06.2018 03:07,Gebyr,,5800,Gebyrer
+Overførsel,5800,20.06.2018 03:07,Udbetaling til konto,600,0,Overførsel
+Salg,400,21.06.2018 15:30,,75,400,Buffet
+Salg,1000,21.06.2018 19:50,Yuggi,75,1400,Buffet
+Salg,150,21.06.2018 19:53,Rugbrød,75,1550,Buffet
+Salg,2000,22.06.2018 00:28,,75,3550,Buffet
+Salg,1500,22.06.2018 01:15,,75,5050,Buffet
+Gebyr,375,22.06.2018 03:07,Gebyr,,4675,Gebyrer
+Overførsel,4675,22.06.2018 03:07,Udbetaling til konto,375,0,Overførsel
+Salg,8400,23.06.2018 01:57,Øl,75,8400,Øl & Vand
+Gebyr,75,23.06.2018 03:07,Gebyr,,8325,Gebyrer
+Overførsel,8325,23.06.2018 03:07,Udbetaling til konto,75,0,Overførsel
+Salg,1000,26.06.2018 16:51,,75,1000,Buffet
+Gebyr,75,27.06.2018 03:07,Gebyr,,925,Gebyrer
+Overførsel,925,27.06.2018 03:07,Udbetaling til konto,75,0,Overførsel
+Salg,300,27.06.2018 08:56,,75,300,Buffet
+Salg,1400,27.06.2018 10:16,,75,1700,Buffet
+Salg,6000,27.06.2018 15:48,Øl,75,7700,Øl & Vand
+Gebyr,225,28.06.2018 03:07,Gebyr,,7475,Gebyrer
+Overførsel,7475,28.06.2018 03:07,Udbetaling til konto,225,0,Overførsel
+Salg,600,30.06.2018 03:49,,75,600,Buffet

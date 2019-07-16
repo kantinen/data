@@ -1,0 +1,1 @@
+{'Gebyrer': 15750, 'Overførsel': 193200, 'Refundering': 0, 'Slik': 500, 'Buffet': 205150, 'Øl & Vand': 1500}
