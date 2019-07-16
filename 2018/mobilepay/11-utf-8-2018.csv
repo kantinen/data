@@ -1,0 +1,285 @@
+kind,amount,dt,msg,fee,balance,category
+Gebyr,450,01.11.2018 03:02,Gebyr,,4550,Gebyrer
+Overførsel,4550,01.11.2018 03:02,Udbetaling til konto,450,0,Overførsel
+Salg,1000,01.11.2018 09:56,,75,1000,Buffet
+Salg,1000,01.11.2018 11:04,,75,2000,Buffet
+Salg,1000,01.11.2018 11:30,,75,3000,Buffet
+Salg,500,01.11.2018 11:49,,75,3500,Buffet
+Salg,1000,01.11.2018 11:59,,75,4500,Buffet
+Salg,1000,01.11.2018 12:08,,75,5500,Buffet
+Salg,1400,01.11.2018 13:24,,75,6900,Buffet
+Salg,1500,01.11.2018 13:34,,75,8400,Buffet
+Gebyr,600,02.11.2018 03:02,Gebyr,,7800,Gebyrer
+Overførsel,7800,02.11.2018 03:02,Udbetaling til konto,600,0,Overførsel
+Salg,1400,02.11.2018 08:50,Risifrutti,75,1400,Buffet
+Salg,1000,02.11.2018 09:12,,75,2400,Buffet
+Salg,3000,02.11.2018 10:47,Tååååst,75,5400,Buffet
+Salg,500,02.11.2018 11:59,,75,5900,Buffet
+Salg,1000,02.11.2018 13:44,,75,6900,Buffet
+Salg,800,02.11.2018 14:54,,75,7700,Buffet
+Salg,800,02.11.2018 14:54,,75,8500,Buffet
+Salg,1000,02.11.2018 16:03,,75,9500,Buffet
+Gebyr,600,03.11.2018 03:02,Gebyr,,8900,Gebyrer
+Overførsel,8900,03.11.2018 03:02,Udbetaling til konto,600,0,Overførsel
+Salg,1500,03.11.2018 11:41,,75,1500,Buffet
+Salg,1000,03.11.2018 15:52,,75,2500,Buffet
+Salg,1000,03.11.2018 16:20,,75,3500,Buffet
+Gebyr,225,04.11.2018 03:03,Gebyr,,3275,Gebyrer
+Overførsel,3275,04.11.2018 03:03,Udbetaling til konto,225,0,Overførsel
+Salg,1000,05.11.2018 12:59,,75,1000,Buffet
+Salg,600,05.11.2018 13:33,,75,1600,Buffet
+Salg,1400,05.11.2018 14:35,,75,3000,Buffet
+Salg,1500,05.11.2018 16:33,,75,4500,Buffet
+Salg,1500,05.11.2018 16:45,,75,6000,Buffet
+Salg,1400,05.11.2018 23:53,,75,7400,Buffet
+Gebyr,450,06.11.2018 03:03,Gebyr,,6950,Gebyrer
+Overførsel,6950,06.11.2018 03:03,Udbetaling til konto,450,0,Overførsel
+Salg,1400,06.11.2018 08:31,Risi frutti,75,1400,Buffet
+Gebyr,75,07.11.2018 03:02,Gebyr,,1325,Gebyrer
+Overførsel,1325,07.11.2018 03:02,Udbetaling til konto,75,0,Overførsel
+Salg,1400,07.11.2018 13:05,,75,1400,Buffet
+Gebyr,75,08.11.2018 03:02,Gebyr,,1325,Gebyrer
+Overførsel,1325,08.11.2018 03:02,Udbetaling til konto,75,0,Overførsel
+Salg,1500,09.11.2018 11:41,,75,1500,Buffet
+Gebyr,75,10.11.2018 03:04,Gebyr,,1425,Gebyrer
+Overførsel,1425,10.11.2018 03:04,Udbetaling til konto,75,0,Overførsel
+Salg,1500,12.11.2018 14:33,,75,1500,Buffet
+Salg,1500,12.11.2018 14:33,,75,3000,Buffet
+Salg,1500,12.11.2018 14:33,,75,4500,Buffet
+Gebyr,225,13.11.2018 03:02,Gebyr,,4275,Gebyrer
+Overførsel,4275,13.11.2018 03:02,Udbetaling til konto,225,0,Overførsel
+Salg,600,14.11.2018 15:52,,75,600,Buffet
+Gebyr,75,15.11.2018 03:02,Gebyr,,525,Gebyrer
+Overførsel,525,15.11.2018 03:02,Udbetaling til konto,75,0,Overførsel
+Salg,1000,15.11.2018 19:50,,75,1000,Buffet
+Gebyr,75,16.11.2018 03:04,Gebyr,,925,Gebyrer
+Overførsel,925,16.11.2018 03:04,Udbetaling til konto,75,0,Overførsel
+Salg,1000,16.11.2018 20:24,,75,1000,Buffet
+Gebyr,75,17.11.2018 03:02,Gebyr,,925,Gebyrer
+Overførsel,925,17.11.2018 03:02,Udbetaling til konto,75,0,Overførsel
+Salg,2100,19.11.2018 00:19,,75,2100,Buffet
+Salg,2000,19.11.2018 01:03,,75,4100,Buffet
+Gebyr,150,19.11.2018 03:03,Gebyr,,3950,Gebyrer
+Overførsel,3950,19.11.2018 03:03,Udbetaling til konto,150,0,Overførsel
+Salg,600,19.11.2018 11:56,,75,600,Buffet
+Salg,450,19.11.2018 12:03,,75,1050,Buffet
+Salg,300,19.11.2018 12:18,,75,1350,Buffet
+Salg,400,19.11.2018 12:49,,75,1750,Buffet
+Salg,400,19.11.2018 12:53,,75,2150,Buffet
+Salg,1000,19.11.2018 13:15,,75,3150,Buffet
+Salg,500,19.11.2018 13:20,,75,3650,Buffet
+Salg,1200,19.11.2018 13:24,,75,4850,Buffet
+Salg,500,19.11.2018 13:28,,75,5350,Buffet
+Salg,1400,19.11.2018 14:37,,75,6750,Buffet
+Salg,1000,19.11.2018 15:01,,75,7750,Buffet
+Salg,400,19.11.2018 15:11,,75,8150,Buffet
+Salg,1000,19.11.2018 16:11,,75,9150,Buffet
+Salg,300,19.11.2018 17:35,,75,9450,Buffet
+Salg,800,19.11.2018 17:57,,75,10250,Buffet
+Salg,500,19.11.2018 20:04,,75,10750,Buffet
+Gebyr,1200,20.11.2018 03:04,Gebyr,,9550,Gebyrer
+Overførsel,9550,20.11.2018 03:04,Udbetaling til konto,1200,0,Overførsel
+Salg,1500,20.11.2018 08:52,,75,1500,Buffet
+Salg,1500,20.11.2018 08:53,,75,3000,Buffet
+Salg,1500,20.11.2018 10:51,,75,4500,Buffet
+Salg,400,20.11.2018 12:36,,75,4900,Buffet
+Salg,1000,20.11.2018 12:41,,75,5900,Buffet
+Salg,1350,20.11.2018 12:56,,75,7250,Buffet
+Salg,500,20.11.2018 12:59,,75,7750,Buffet
+Salg,1000,20.11.2018 13:01,,75,8750,Buffet
+Salg,1100,20.11.2018 13:06,,75,9850,Buffet
+Salg,500,20.11.2018 13:10,,75,10350,Buffet
+Salg,300,20.11.2018 13:23,,75,10650,Buffet
+Salg,1000,20.11.2018 13:48,,75,11650,Buffet
+Salg,500,20.11.2018 15:51,,75,12150,Buffet
+Salg,1000,20.11.2018 18:43,,75,13150,Buffet
+Salg,500,20.11.2018 19:31,,75,13650,Buffet
+Salg,400,20.11.2018 19:41,,75,14050,Buffet
+Salg,300,20.11.2018 20:13,,75,14350,Buffet
+Gebyr,1275,21.11.2018 03:03,Gebyr,,13075,Gebyrer
+Overførsel,13075,21.11.2018 03:03,Udbetaling til konto,1275,0,Overførsel
+Salg,1000,21.11.2018 11:25,,75,1000,Buffet
+Salg,500,21.11.2018 11:32,,75,1500,Buffet
+Salg,1000,21.11.2018 12:20,,75,2500,Buffet
+Salg,1400,21.11.2018 13:01,,75,3900,Buffet
+Salg,1000,21.11.2018 13:16,,75,4900,Buffet
+Salg,1000,21.11.2018 13:41,,75,5900,Buffet
+Salg,500,21.11.2018 15:45,,75,6400,Buffet
+Salg,1400,21.11.2018 18:39,,75,7800,Buffet
+Salg,1400,21.11.2018 23:57,,75,9200,Buffet
+Gebyr,675,22.11.2018 03:04,Gebyr,,8525,Gebyrer
+Overførsel,8525,22.11.2018 03:04,Udbetaling til konto,675,0,Overførsel
+Salg,1200,22.11.2018 10:43,,75,1200,Buffet
+Salg,800,22.11.2018 10:44,,75,2000,Buffet
+Salg,1000,22.11.2018 11:02,,75,3000,Buffet
+Salg,400,22.11.2018 11:11,,75,3400,Buffet
+Salg,1400,22.11.2018 12:03,,75,4800,Buffet
+Salg,1000,22.11.2018 12:08,,75,5800,Buffet
+Salg,1200,22.11.2018 13:18,,75,7000,Buffet
+Salg,1000,22.11.2018 13:20,,75,8000,Buffet
+Salg,1000,22.11.2018 13:56,,75,9000,Buffet
+Salg,400,22.11.2018 15:53,,75,9400,Buffet
+Salg,1400,22.11.2018 16:02,,75,10800,Buffet
+Salg,1000,22.11.2018 19:49,,75,11800,Buffet
+Salg,1400,22.11.2018 21:25,,75,13200,Buffet
+Gebyr,975,23.11.2018 03:05,Gebyr,,12225,Gebyrer
+Overførsel,12225,23.11.2018 03:05,Udbetaling til konto,975,0,Overførsel
+Salg,1000,23.11.2018 11:47,,75,1000,Buffet
+Salg,1000,23.11.2018 12:55,,75,2000,Buffet
+Salg,800,23.11.2018 13:26,,75,2800,Buffet
+Salg,450,23.11.2018 13:50,,75,3250,Buffet
+Salg,2000,23.11.2018 22:49,,75,5250,Buffet
+Gebyr,375,24.11.2018 03:04,Gebyr,,4875,Gebyrer
+Overførsel,4875,24.11.2018 03:04,Udbetaling til konto,375,0,Overførsel
+Salg,300,24.11.2018 16:56,,75,300,Buffet
+Gebyr,75,25.11.2018 03:04,Gebyr,,225,Gebyrer
+Overførsel,225,25.11.2018 03:04,Udbetaling til konto,75,0,Overførsel
+Salg,1400,25.11.2018 11:29,,75,1400,Buffet
+Salg,1400,25.11.2018 13:17,,75,2800,Buffet
+Salg,2000,25.11.2018 17:15,Ice / øl,75,4800,Øl & Vand
+Gebyr,225,26.11.2018 03:03,Gebyr,,4575,Gebyrer
+Overførsel,4575,26.11.2018 03:03,Udbetaling til konto,225,0,Overførsel
+Salg,1400,26.11.2018 11:28,,75,1400,Buffet
+Salg,1000,26.11.2018 17:11,,75,2400,Buffet
+Salg,400,26.11.2018 17:21,,75,2800,Buffet
+Gebyr,225,27.11.2018 03:04,Gebyr,,2575,Gebyrer
+Overførsel,2575,27.11.2018 03:04,Udbetaling til konto,225,0,Overførsel
+Salg,500,27.11.2018 09:38,,75,500,Buffet
+Salg,1000,27.11.2018 10:09,,75,1500,Buffet
+Salg,500,27.11.2018 10:11,,75,2000,Buffet
+Salg,1400,27.11.2018 10:26,,75,3400,Buffet
+Salg,1500,27.11.2018 12:09,,75,4900,Buffet
+Salg,1000,27.11.2018 13:16,,75,5900,Buffet
+Salg,500,27.11.2018 13:18,,75,6400,Buffet
+Salg,400,27.11.2018 13:45,,75,6800,Buffet
+Salg,1000,27.11.2018 14:57,,75,7800,Buffet
+Salg,1000,27.11.2018 15:11,,75,8800,Buffet
+Salg,500,27.11.2018 15:14,,75,9300,Buffet
+Salg,1400,27.11.2018 15:49,,75,10700,Buffet
+Salg,500,27.11.2018 17:00,,75,11200,Buffet
+Salg,1000,27.11.2018 19:33,,75,12200,Buffet
+Salg,1000,27.11.2018 21:52,,75,13200,Buffet
+Gebyr,1125,28.11.2018 03:04,Gebyr,,12075,Gebyrer
+Overførsel,12075,28.11.2018 03:04,Udbetaling til konto,1125,0,Overførsel
+Salg,600,28.11.2018 11:54,,75,600,Buffet
+Salg,600,28.11.2018 12:06,,75,1200,Buffet
+Salg,600,28.11.2018 12:06,,75,1800,Buffet
+Salg,1100,28.11.2018 12:08,,75,2900,Buffet
+Salg,1000,28.11.2018 13:22,,75,3900,Buffet
+Salg,1250,28.11.2018 13:44,Eric pålæg,75,5150,Buffet
+Salg,500,28.11.2018 16:02,,75,5650,Buffet
+Salg,1400,28.11.2018 19:01,\ud83d\udd34\ud83d\udc02,75,7050,Buffet
+Gebyr,600,29.11.2018 03:04,Gebyr,,6450,Gebyrer
+Overførsel,6450,29.11.2018 03:04,Udbetaling til konto,600,0,Overførsel
+Salg,1000,29.11.2018 10:13,,75,1000,Buffet
+Salg,1400,29.11.2018 11:07,Risi,75,2400,Buffet
+Salg,1400,29.11.2018 11:08,,75,3800,Buffet
+Salg,500,29.11.2018 11:20,,75,4300,Buffet
+Salg,400,29.11.2018 11:53,,75,4700,Buffet
+Salg,600,29.11.2018 13:50,,75,5300,Buffet
+Salg,2300,29.11.2018 13:55,,75,7600,Buffet
+Salg,1000,29.11.2018 14:04,,75,8600,Buffet
+Salg,1500,29.11.2018 14:08,,75,10100,Buffet
+Salg,1500,29.11.2018 14:08,,75,11600,Buffet
+Salg,500,29.11.2018 14:16,,75,12100,Buffet
+Salg,1200,29.11.2018 14:17,,75,13300,Buffet
+Salg,1400,29.11.2018 15:21,,75,14700,Buffet
+Salg,20000,29.11.2018 15:44,Julefrokost,75,34700,Buffet
+Salg,20000,29.11.2018 15:57,,75,54700,Buffet
+Salg,1400,29.11.2018 17:53,,75,56100,Buffet
+Salg,20000,29.11.2018 18:30,Julefrokost,75,76100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:30,Julefrokost,75,96100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:31,Julefrokost,75,116100,Julefrokost billetsalg
+Salg,40000,29.11.2018 18:31,Julefrokost,75,156100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:31,Julefrokost :)\ud83e\udd84\ud83d\udd0c\ud83d\uddfb,75,176100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:31,Julefrokost,75,196100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:31,Julefrokost \ud83c\udf84\u2603\ufe0f\ud83c\udf85\ud83e\udd36,75,216100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:32,Julefrokost,75,236100,Julefrokost billetsalg
+Salg,40000,29.11.2018 18:33,Julefrokost,75,276100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:33,,75,296100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:33,Julefrokost,75,316100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:33,Julefrokost i kommentar feltet,75,336100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:34,JULEFROKOST,75,356100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:35,,75,376100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:35,JULEFROKOST,75,396100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:35,JULEFROKOST,75,416100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:35,Julefrokost,75,436100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:36,Julefrokost,75,456100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:36,Julefrokost,75,476100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:37,Julefrokost,75,496100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:37,Julefrokost,75,516100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:38,Julefrokost,75,536100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:38,,75,556100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:38,,75,576100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:39,Julefrokost,75,596100,Julefrokost billetsalg
+Salg,160000,29.11.2018 18:39,,75,756100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:39,Julefrokost,75,776100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:40,Julefrokost,75,796100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:40,Julefrokost,75,816100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:40,Julefrokost,75,836100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:41,,75,856100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:41,Julefrokost,75,876100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:42,JULEFROKOST,75,896100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:42,Julefrokost,75,916100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:42,Julefrokost,75,936100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:42,,75,956100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:43,Julefrokost,75,976100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:43,Christmas dinner,75,996100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:44,,75,1016100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:44,Julefrokost,75,1036100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:45,Julefrokost,75,1056100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:45,Julefrokost,75,1076100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:45,Julefrokost,75,1096100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:46,Julefrokost,75,1116100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:46,,75,1136100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:46,Julefrokost i kommentarfeltet,75,1156100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:47,,75,1176100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:47,Julefrokost,75,1196100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:48,Julefrokost,75,1216100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:48,,75,1236100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:48,Julefrokost,75,1256100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:48,Julefrokost,75,1276100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:49,Julefrokost,75,1296100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:49,Julefrokost,75,1316100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:49,Julefrokost,75,1336100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:50,,75,1356100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:50,JULEFROKOST,75,1376100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:50,Julefrokost,75,1396100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:50,Julefrokost,75,1416100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:51,Julefrokost,75,1436100,Julefrokost billetsalg
+Salg,40000,29.11.2018 18:51,,75,1476100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:51,,75,1496100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:52,Julefrokost,75,1516100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:53,Julefrokost,75,1536100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:53,Julefrokost,75,1556100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:54,Julefrokost,75,1576100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:54,,75,1596100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:56,,75,1616100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:57,Julefrokost,75,1636100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:57,Julefrokost,75,1656100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:57,,75,1676100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:58,JULEFROKOST,75,1696100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:59,Julefrokost,75,1716100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:59,,75,1736100,Julefrokost billetsalg
+Salg,20000,29.11.2018 18:59,,75,1756100,Julefrokost billetsalg
+Salg,3000,29.11.2018 19:01,,75,1759100,Buffet
+Salg,40000,29.11.2018 19:02,Julefrokost,75,1799100,Julefrokost billetsalg
+Salg,20000,29.11.2018 19:02,,75,1819100,Julefrokost billetsalg
+Salg,20000,29.11.2018 19:03,Julefrokost,75,1839100,Julefrokost billetsalg
+Salg,20000,29.11.2018 19:18,Christmas dinner,75,1859100,Julefrokost billetsalg
+Salg,20000,29.11.2018 19:20,Julefrokost \ud83c\udf80,75,1879100,Julefrokost billetsalg
+Salg,1400,29.11.2018 19:22,,75,1880500,Buffet
+Salg,20000,29.11.2018 19:25,,75,1900500,Julefrokost billetsalg
+Salg,20000,29.11.2018 20:01,Julefrokost,75,1920500,Julefrokost billetsalg
+Salg,20000,29.11.2018 21:55,Julefrokost Rober,75,1940500,Julefrokost billetsalg
+Gebyr,7575,30.11.2018 03:04,Gebyr,,1932925,Gebyrer
+Overførsel,1932925,30.11.2018 03:04,Udbetaling til konto,7575,0,Overførsel
+Salg,1400,30.11.2018 10:29,,75,1400,Buffet
+Salg,1400,30.11.2018 10:53,,75,2800,Buffet
+Salg,1000,30.11.2018 14:38,,75,3800,Buffet
+Salg,1400,30.11.2018 15:47,,75,5200,Buffet
+Salg,20000,30.11.2018 17:05,Julefrokost,75,25200,Julefrokost billetsalg
+Salg,20000,30.11.2018 17:15,Julefrokost,75,45200,Julefrokost billetsalg
+Salg,600,30.11.2018 17:38,,75,45800,Buffet
+Salg,1200,30.11.2018 19:57,,75,47000,Buffet
+Salg,500,30.11.2018 20:58,,75,47500,Buffet

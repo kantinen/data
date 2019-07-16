@@ -1,0 +1,6 @@
+kind,amount,dt,msg,fee,balance,category
+Gebyr,75,01.07.2018 03:08,Gebyr,,525,Gebyrer
+Overførsel,525,01.07.2018 03:08,Udbetaling til konto,75,0,Overførsel
+Salg,1000,18.07.2018 10:07,,75,1000,Buffet
+Gebyr,75,19.07.2018 03:09,Gebyr,,925,Gebyrer
+Overførsel,925,19.07.2018 03:09,Udbetaling til konto,75,0,Overførsel

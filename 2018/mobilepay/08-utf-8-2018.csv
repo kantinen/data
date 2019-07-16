@@ -1,0 +1,41 @@
+kind,amount,dt,msg,fee,balance,category
+Salg,1000,05.08.2018 13:31,slik-snickers,75,1000,Slik
+Gebyr,75,06.08.2018 03:08,Gebyr,,925,Gebyrer
+Overførsel,925,06.08.2018 03:08,Udbetaling til konto,75,0,Overførsel
+Salg,6200,13.08.2018 16:07,"knoppers, snickers, m&m, kitkat, twix, cola. dankortautomat i udu",75,6200,Slik
+Salg,2600,13.08.2018 16:09,"Guarana, knoppers, hvid lion bar",75,8800,Slik
+Gebyr,150,14.08.2018 03:08,Gebyr,,8650,Gebyrer
+Overførsel,8650,14.08.2018 03:08,Udbetaling til konto,150,0,Overførsel
+Salg,1500,20.08.2018 15:12,,75,1500,Buffet
+Salg,1000,20.08.2018 16:48,Manatee,75,2500,Øl & Vand
+Gebyr,150,21.08.2018 03:10,Gebyr,,2350,Gebyrer
+Overførsel,2350,21.08.2018 03:10,Udbetaling til konto,150,0,Overførsel
+Salg,1400,23.08.2018 20:21,,75,1400,Buffet
+Gebyr,75,24.08.2018 03:10,Gebyr,,1325,Gebyrer
+Overførsel,1325,24.08.2018 03:10,Udbetaling til konto,75,0,Overførsel
+Salg,1400,26.08.2018 07:59,,75,1400,Buffet
+Salg,1400,26.08.2018 09:35,,75,2800,Buffet
+Salg,1400,26.08.2018 10:48,,75,4200,Buffet
+Salg,1400,26.08.2018 15:34,,75,5600,Buffet
+Salg,1400,27.08.2018 00:10,,75,7000,Buffet
+Gebyr,375,27.08.2018 03:10,Gebyr,,6625,Gebyrer
+Overførsel,6625,27.08.2018 03:10,Udbetaling til konto,375,0,Overførsel
+Salg,1400,27.08.2018 08:02,,75,1400,Buffet
+Salg,1400,27.08.2018 08:32,,75,2800,Buffet
+Salg,2800,27.08.2018 08:42,,75,5600,Buffet
+Salg,1400,27.08.2018 14:17,,75,7000,Buffet
+Salg,1400,27.08.2018 15:02,,75,8400,Buffet
+Salg,1400,27.08.2018 15:04,,75,9800,Buffet
+Salg,1000,27.08.2018 16:14,,75,10800,Buffet
+Salg,1400,27.08.2018 16:15,,75,12200,Buffet
+Salg,1400,27.08.2018 17:48,,75,13600,Buffet
+Salg,1400,27.08.2018 17:56,,75,15000,Buffet
+Salg,1400,27.08.2018 18:00,,75,16400,Buffet
+Salg,1400,27.08.2018 18:08,,75,17800,Buffet
+Gebyr,900,28.08.2018 03:10,Gebyr,,16900,Gebyrer
+Overførsel,16900,28.08.2018 03:10,Udbetaling til konto,900,0,Overførsel
+Salg,1400,28.08.2018 08:33,,75,1400,Buffet
+Salg,1400,28.08.2018 08:35,,75,2800,Buffet
+Salg,1400,28.08.2018 08:39,,75,4200,Buffet
+Gebyr,225,29.08.2018 03:10,Gebyr,,3975,Gebyrer
+Overførsel,3975,29.08.2018 03:10,Udbetaling til konto,225,0,Overførsel

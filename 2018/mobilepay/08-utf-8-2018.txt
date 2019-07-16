@@ -1,0 +1,1 @@
+{'Gebyrer': 1950, 'Overførsel': 40750, 'Refundering': 0, 'Påskeevent': 0, 'Julefrokost billetsalg': 0, 'Julefrokost barsalg': 0, 'Slik': 9800, 'Kort': 0, 'Buffet': 31900, 'Øl & Vand': 1000}
