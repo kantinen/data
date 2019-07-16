@@ -1,0 +1,147 @@
+kind,amount,dt,msg,fee,balance,category
+Salg,800,02.01.2018 11:04,,60,800,Buffet
+Salg,450,02.01.2018 14:21,,60,1250,Buffet
+Salg,1500,02.01.2018 15:59,,60,2750,Buffet
+Salg,900,02.01.2018 16:11,,60,3650,Buffet
+Salg,1800,02.01.2018 16:30,,60,5450,Buffet
+Salg,450,02.01.2018 19:19,,60,5900,Buffet
+Salg,450,02.01.2018 20:10,,60,6350,Buffet
+Salg,500,02.01.2018 21:32,,60,6850,Buffet
+Salg,1000,02.01.2018 23:18,,60,7850,Buffet
+Gebyr,540,03.01.2018 03:03,Gebyr,,7310,Gebyrer
+Overførsel,7310,03.01.2018 03:03,Udbetaling til konto,540,0,Overførsel
+Salg,900,03.01.2018 13:20,,60,900,Buffet
+Salg,1100,03.01.2018 13:58,,60,2000,Buffet
+Salg,1300,03.01.2018 15:42,,60,3300,Buffet
+Salg,500,03.01.2018 15:42,,60,3800,Buffet
+Salg,500,03.01.2018 16:59,,60,4300,Buffet
+Salg,1400,03.01.2018 18:46,,60,5700,Buffet
+Salg,1400,03.01.2018 18:47,,60,7100,Buffet
+Gebyr,420,04.01.2018 03:03,Gebyr,,6680,Gebyrer
+Overførsel,6680,04.01.2018 03:03,Udbetaling til konto,420,0,Overførsel
+Salg,1000,04.01.2018 13:08,,60,1000,Buffet
+Salg,500,04.01.2018 13:59,,60,1500,Buffet
+Salg,500,04.01.2018 15:35,,60,2000,Buffet
+Salg,1000,04.01.2018 15:38,,60,3000,Buffet
+Salg,1500,04.01.2018 16:06,,60,4500,Buffet
+Salg,500,04.01.2018 16:29,,60,5000,Buffet
+Gebyr,360,05.01.2018 03:03,Gebyr,,4640,Gebyrer
+Overførsel,4640,05.01.2018 03:03,Udbetaling til konto,360,0,Overførsel
+Salg,1600,05.01.2018 12:16,,60,1600,Buffet
+Salg,500,05.01.2018 12:16,,60,2100,Buffet
+Salg,900,05.01.2018 17:15,,60,3000,Buffet
+Gebyr,180,06.01.2018 03:03,Gebyr,,2820,Gebyrer
+Overførsel,2820,06.01.2018 03:03,Udbetaling til konto,180,0,Overførsel
+Salg,500,06.01.2018 12:55,,60,500,Buffet
+Salg,1800,06.01.2018 19:13,,60,2300,Buffet
+Gebyr,120,07.01.2018 03:03,Gebyr,,2180,Gebyrer
+Overførsel,2180,07.01.2018 03:03,Udbetaling til konto,120,0,Overførsel
+Salg,450,08.01.2018 10:04,,60,450,Buffet
+Salg,400,08.01.2018 14:15,,60,850,Buffet
+Salg,900,08.01.2018 14:21,Toast,60,1750,Buffet
+Salg,900,08.01.2018 14:23,,60,2650,Buffet
+Salg,450,08.01.2018 15:12,,60,3100,Buffet
+Salg,800,08.01.2018 15:56,,60,3900,Buffet
+Salg,400,08.01.2018 15:57,,60,4300,Buffet
+Salg,400,08.01.2018 15:57,,60,4700,Buffet
+Salg,900,08.01.2018 21:20,,60,5600,Buffet
+Salg,500,08.01.2018 23:25,,60,6100,Buffet
+Salg,500,09.01.2018 00:33,,60,6600,Buffet
+Salg,1500,09.01.2018 03:02,,60,8100,Buffet
+Gebyr,720,09.01.2018 03:03,Gebyr,,7380,Gebyrer
+Overførsel,7380,09.01.2018 03:03,Udbetaling til konto,720,0,Overførsel
+Salg,500,09.01.2018 05:40,,60,500,Buffet
+Salg,1000,09.01.2018 11:02,,60,1500,Buffet
+Salg,1000,09.01.2018 12:15,,60,2500,Buffet
+Salg,1400,09.01.2018 12:58,,60,3900,Buffet
+Salg,1000,09.01.2018 13:08,Mælkesnitter JATAK,60,4900,Buffet
+Salg,1800,09.01.2018 13:10,,60,6700,Buffet
+Salg,1000,09.01.2018 13:12,,60,7700,Buffet
+Salg,1000,09.01.2018 13:15,,60,8700,Buffet
+Salg,300,09.01.2018 13:26,,60,9000,Buffet
+Salg,1400,09.01.2018 14:00,,60,10400,Buffet
+Salg,1000,09.01.2018 14:18,,60,11400,Buffet
+Salg,1000,09.01.2018 14:19,,60,12400,Buffet
+Salg,2000,09.01.2018 14:56,,60,14400,Buffet
+Salg,1000,09.01.2018 14:59,,60,15400,Buffet
+Salg,1000,09.01.2018 15:55,,60,16400,Buffet
+Salg,400,09.01.2018 16:17,,60,16800,Buffet
+Salg,1000,09.01.2018 17:45,,60,17800,Buffet
+Salg,1000,09.01.2018 17:49,,60,18800,Buffet
+Salg,500,09.01.2018 18:52,,60,19300,Buffet
+Salg,500,09.01.2018 18:52,,60,19800,Buffet
+Salg,500,09.01.2018 18:53,,60,20300,Buffet
+Salg,1000,09.01.2018 18:54,,60,21300,Buffet
+Salg,500,09.01.2018 19:02,,60,21800,Buffet
+Salg,500,09.01.2018 19:06,,60,22300,Buffet
+Salg,2000,09.01.2018 22:39,,60,24300,Buffet
+Salg,500,10.01.2018 00:04,,60,24800,Buffet
+Salg,500,10.01.2018 00:05,,60,25300,Buffet
+Salg,1000,10.01.2018 02:30,,60,26300,Buffet
+Gebyr,1680,10.01.2018 03:04,Gebyr,,24620,Gebyrer
+Overførsel,24620,10.01.2018 03:04,Udbetaling til konto,1680,0,Overførsel
+Salg,800,10.01.2018 15:46,,60,800,Buffet
+Salg,900,10.01.2018 22:35,,60,1700,Buffet
+Gebyr,120,11.01.2018 03:04,Gebyr,,1580,Gebyrer
+Overførsel,1580,11.01.2018 03:04,Udbetaling til konto,120,0,Overførsel
+Salg,600,11.01.2018 13:08,,60,600,Buffet
+Salg,1200,11.01.2018 13:10,,60,1800,Buffet
+Salg,900,11.01.2018 14:40,,60,2700,Buffet
+Gebyr,180,12.01.2018 03:04,Gebyr,,2520,Gebyrer
+Overførsel,2520,12.01.2018 03:04,Udbetaling til konto,180,0,Overførsel
+Salg,900,12.01.2018 14:35,,60,900,Buffet
+Salg,500,12.01.2018 14:45,,60,1400,Buffet
+Salg,400,12.01.2018 18:37,,60,1800,Buffet
+Gebyr,180,13.01.2018 03:04,Gebyr,,1620,Gebyrer
+Overførsel,1620,13.01.2018 03:04,Udbetaling til konto,180,0,Overførsel
+Salg,500,13.01.2018 20:26,,60,500,Buffet
+Salg,600,13.01.2018 22:34,,60,1100,Buffet
+Gebyr,120,14.01.2018 03:04,Gebyr,,980,Gebyrer
+Overførsel,980,14.01.2018 03:04,Udbetaling til konto,120,0,Overførsel
+Salg,1000,15.01.2018 14:36,,60,1000,Buffet
+Salg,600,15.01.2018 17:05,,60,1600,Buffet
+Salg,900,15.01.2018 19:16,,60,2500,Buffet
+Gebyr,180,16.01.2018 03:05,Gebyr,,2320,Gebyrer
+Overførsel,2320,16.01.2018 03:05,Udbetaling til konto,180,0,Overførsel
+Salg,300,17.01.2018 15:32,,60,300,Buffet
+Salg,900,17.01.2018 18:22,,60,1200,Buffet
+Salg,500,17.01.2018 19:04,,60,1700,Buffet
+Salg,1000,17.01.2018 19:07,,60,2700,Buffet
+Salg,500,17.01.2018 19:10,,60,3200,Buffet
+Gebyr,300,18.01.2018 03:06,Gebyr,,2900,Gebyrer
+Overførsel,2900,18.01.2018 03:06,Udbetaling til konto,300,0,Overførsel
+Salg,500,18.01.2018 09:51,,60,500,Buffet
+Salg,500,18.01.2018 13:25,Mælkesnitte,60,1000,Buffet
+Salg,2000,18.01.2018 13:27,,60,3000,Buffet
+Salg,40000,18.01.2018 14:17,,60,43000,Buffet
+Salg,500,18.01.2018 15:25,,60,43500,Buffet
+Refundering,40000,18.01.2018 16:07,,0,3500,Refundering
+Salg,1600,18.01.2018 17:09,Slik,60,5100,Slik
+Salg,1000,18.01.2018 18:33,,60,6100,Buffet
+Salg,400,18.01.2018 18:39,,60,6500,Buffet
+Gebyr,480,19.01.2018 03:04,Gebyr,,6020,Gebyrer
+Overførsel,6020,19.01.2018 03:04,Udbetaling til konto,480,0,Overførsel
+Salg,10000,19.01.2018 13:53,,60,10000,Buffet
+Gebyr,60,20.01.2018 03:04,Gebyr,,9940,Gebyrer
+Overførsel,9940,20.01.2018 03:04,Udbetaling til konto,60,0,Overførsel
+Salg,900,20.01.2018 04:33,,60,900,Buffet
+Gebyr,60,21.01.2018 03:03,Gebyr,,840,Gebyrer
+Overførsel,840,21.01.2018 03:03,Udbetaling til konto,60,0,Overførsel
+Salg,500,23.01.2018 12:12,,60,500,Buffet
+Gebyr,60,24.01.2018 03:05,Gebyr,,440,Gebyrer
+Overførsel,440,24.01.2018 03:05,Udbetaling til konto,60,0,Overførsel
+Salg,1000,24.01.2018 14:04,,60,1000,Buffet
+Salg,1000,24.01.2018 14:04,,60,2000,Buffet
+Salg,500,24.01.2018 17:30,,60,2500,Buffet
+Gebyr,180,25.01.2018 03:05,Gebyr,,2320,Gebyrer
+Overførsel,2320,25.01.2018 03:05,Udbetaling til konto,180,0,Overførsel
+Salg,300,25.01.2018 21:08,,60,300,Buffet
+Salg,800,25.01.2018 21:09,,60,1100,Buffet
+Gebyr,120,26.01.2018 03:04,Gebyr,,980,Gebyrer
+Overførsel,980,26.01.2018 03:04,Udbetaling til konto,120,0,Overførsel
+Salg,300,26.01.2018 13:57,,60,300,Buffet
+Gebyr,60,27.01.2018 03:05,Gebyr,,240,Gebyrer
+Overførsel,240,27.01.2018 03:05,Udbetaling til konto,60,0,Overførsel
+Salg,5000,29.01.2018 03:54,,60,5000,Buffet
+Gebyr,60,30.01.2018 03:04,Gebyr,,4940,Gebyrer
+Overførsel,4940,30.01.2018 03:04,Udbetaling til konto,60,0,Overførsel
