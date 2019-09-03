@@ -1,0 +1,225 @@
+kind,amount,dt,msg,fee,category
+Salg,1400,02.01.2019 14:13,Fuzetea,75,Øl & Vand
+Salg,800,02.01.2019 16:47,,75,Buffet
+Gebyr,-150,03.01.2019 03:03,Gebyr,,Gebyrer
+Overførsel,2050,03.01.2019 03:03,Udbetaling til konto,150,Overførsel
+Salg,1400,03.01.2019 11:42,,75,Buffet
+Salg,1400,03.01.2019 11:43,,75,Buffet
+Salg,600,03.01.2019 14:24,,75,Buffet
+Salg,600,03.01.2019 15:32,,75,Buffet
+Salg,1100,03.01.2019 15:33,,75,Buffet
+Salg,400,03.01.2019 17:23,,75,Buffet
+Salg,1000,03.01.2019 18:18,,75,Buffet
+Gebyr,-525,04.01.2019 03:04,Gebyr,,Gebyrer
+Overførsel,5975,04.01.2019 03:04,Udbetaling til konto,525,Overførsel
+Salg,600,04.01.2019 11:41,,75,Buffet
+Salg,700,04.01.2019 11:41,,75,Buffet
+Salg,400,04.01.2019 13:45,,75,Buffet
+Salg,1000,04.01.2019 18:42,,75,Buffet
+Salg,1200,04.01.2019 19:07,,75,Buffet
+Gebyr,-375,05.01.2019 03:03,Gebyr,,Gebyrer
+Overførsel,3525,05.01.2019 03:03,Udbetaling til konto,375,Overførsel
+Salg,500,05.01.2019 15:12,,75,Buffet
+Salg,1000,05.01.2019 15:17,,75,Buffet
+Salg,1000,05.01.2019 15:31,2 sandwiches,75,Buffet
+Salg,1050,05.01.2019 15:33,,75,Buffet
+Salg,1000,05.01.2019 17:48,,75,Buffet
+Salg,1200,05.01.2019 17:50,,75,Buffet
+Salg,1000,05.01.2019 18:43,,75,Buffet
+Salg,450,05.01.2019 21:07,,75,Buffet
+Gebyr,-600,06.01.2019 03:03,Gebyr,,Gebyrer
+Overførsel,6600,06.01.2019 03:03,Udbetaling til konto,600,Overførsel
+Salg,2000,06.01.2019 15:41,\ud83e\udd87,75,Buffet
+Salg,200,06.01.2019 19:29,,75,Buffet
+Salg,100,06.01.2019 19:48,,75,Buffet
+Gebyr,-225,07.01.2019 03:03,Gebyr,,Gebyrer
+Overførsel,2075,07.01.2019 03:03,Udbetaling til konto,225,Overførsel
+Salg,1100,07.01.2019 13:37,,75,Buffet
+Salg,400,07.01.2019 19:03,,75,Buffet
+Salg,400,07.01.2019 20:41,,75,Buffet
+Salg,1000,07.01.2019 21:29,,75,Buffet
+Salg,1500,07.01.2019 21:29,,75,Buffet
+Salg,2000,07.01.2019 21:29,,75,Buffet
+Gebyr,-450,08.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,5950,08.01.2019 00:59,Udbetaling til konto,450,Overførsel
+Salg,2400,08.01.2019 12:51,,75,Buffet
+Salg,1000,08.01.2019 13:38,,75,Buffet
+Salg,1000,08.01.2019 14:21,,75,Buffet
+Salg,1000,08.01.2019 15:13,,75,Buffet
+Salg,1000,08.01.2019 15:31,,75,Buffet
+Salg,1000,08.01.2019 15:31,,75,Buffet
+Salg,1200,08.01.2019 16:17,,75,Buffet
+Salg,2000,08.01.2019 16:22,,75,Buffet
+Salg,2000,08.01.2019 16:22,,75,Buffet
+Salg,500,08.01.2019 16:28,,75,Buffet
+Salg,200,08.01.2019 17:09,,75,Buffet
+Salg,500,08.01.2019 17:12,,75,Buffet
+Salg,500,08.01.2019 17:14,,75,Buffet
+Salg,800,08.01.2019 17:40,,75,Buffet
+Salg,1000,08.01.2019 18:05,,75,Buffet
+Gebyr,-1125,09.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,14975,09.01.2019 00:59,Udbetaling til konto,1125,Overførsel
+Salg,1000,09.01.2019 12:41,,75,Buffet
+Salg,500,09.01.2019 13:19,,75,Buffet
+Salg,1000,09.01.2019 13:22,,75,Buffet
+Salg,1500,09.01.2019 13:39,,75,Buffet
+Salg,1000,09.01.2019 14:04,,75,Buffet
+Salg,1000,09.01.2019 14:07,,75,Buffet
+Salg,1000,09.01.2019 14:40,,75,Buffet
+Salg,1400,09.01.2019 15:43,,75,Buffet
+Salg,1050,09.01.2019 16:21,,75,Buffet
+Salg,1000,09.01.2019 18:29,Snitte og yuggi,75,Buffet
+Salg,1500,09.01.2019 18:51,,75,Buffet
+Salg,1000,09.01.2019 19:10,,75,Buffet
+Salg,500,09.01.2019 20:06,,75,Buffet
+Salg,500,09.01.2019 20:11,,75,Buffet
+Salg,2000,10.01.2019 00:48,,75,Buffet
+Gebyr,-1125,10.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,14825,10.01.2019 00:59,Udbetaling til konto,1125,Overførsel
+Salg,1600,10.01.2019 10:48,Toast,75,Buffet
+Salg,500,10.01.2019 11:28,,75,Buffet
+Salg,500,10.01.2019 12:11,,75,Buffet
+Salg,500,10.01.2019 12:12,,75,Buffet
+Salg,1000,10.01.2019 13:03,,75,Buffet
+Salg,600,10.01.2019 13:19,3x brød,75,Buffet
+Salg,1400,10.01.2019 13:37,,75,Buffet
+Salg,3000,10.01.2019 17:39,,75,Buffet
+Salg,500,10.01.2019 20:05,,75,Buffet
+Gebyr,-675,11.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,8925,11.01.2019 00:59,Udbetaling til konto,675,Overførsel
+Salg,800,11.01.2019 11:15,,75,Buffet
+Salg,1300,11.01.2019 11:45,,75,Buffet
+Salg,1500,11.01.2019 12:27,,75,Buffet
+Salg,1000,11.01.2019 13:20,,75,Buffet
+Salg,1000,11.01.2019 13:34,,75,Buffet
+Salg,1000,11.01.2019 18:01,,75,Buffet
+Salg,1400,11.01.2019 19:29,,75,Buffet
+Salg,1400,11.01.2019 21:04,,75,Buffet
+Gebyr,-600,12.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,8800,12.01.2019 00:59,Udbetaling til konto,600,Overførsel
+Salg,1000,12.01.2019 12:57,,75,Buffet
+Salg,450,12.01.2019 13:06,3 slices of bread,75,Buffet
+Salg,1300,12.01.2019 13:42,,75,Buffet
+Salg,500,12.01.2019 16:47,,75,Buffet
+Salg,1300,12.01.2019 16:58,,75,Buffet
+Salg,1400,12.01.2019 21:44,,75,Buffet
+Salg,1400,12.01.2019 21:44,,75,Buffet
+Gebyr,-525,13.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,6825,13.01.2019 00:59,Udbetaling til konto,525,Overførsel
+Salg,800,13.01.2019 10:52,,75,Buffet
+Salg,1000,13.01.2019 13:45,,75,Buffet
+Salg,2400,13.01.2019 14:28,,75,Buffet
+Salg,500,13.01.2019 14:30,Tååååst,75,Buffet
+Gebyr,-300,14.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,4400,14.01.2019 00:59,Udbetaling til konto,300,Overførsel
+Salg,800,14.01.2019 11:53,,75,Buffet
+Salg,1600,14.01.2019 11:54,,75,Buffet
+Salg,1300,14.01.2019 12:45,,75,Buffet
+Salg,700,14.01.2019 13:01,,75,Buffet
+Salg,650,14.01.2019 13:30,,75,Buffet
+Salg,500,14.01.2019 13:30,,75,Buffet
+Salg,1400,14.01.2019 13:55,,75,Buffet
+Salg,1300,14.01.2019 14:29,,75,Buffet
+Salg,1400,14.01.2019 15:02,,75,Buffet
+Salg,1600,14.01.2019 15:17,,75,Buffet
+Salg,1000,14.01.2019 16:02,,75,Buffet
+Salg,500,14.01.2019 16:04,,75,Buffet
+Salg,1400,14.01.2019 16:28,,75,Buffet
+Salg,500,14.01.2019 17:32,Toast,75,Buffet
+Salg,500,14.01.2019 17:32,,75,Buffet
+Salg,1000,14.01.2019 19:36,,75,Buffet
+Salg,800,14.01.2019 22:15,,75,Buffet
+Salg,800,14.01.2019 22:17,,75,Buffet
+Salg,500,14.01.2019 23:22,,75,Buffet
+Gebyr,-1425,15.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,16825,15.01.2019 00:59,Udbetaling til konto,1425,Overførsel
+Salg,800,15.01.2019 03:06,,75,Buffet
+Salg,800,15.01.2019 03:51,,75,Buffet
+Salg,400,15.01.2019 04:14,Banan,75,Buffet
+Salg,400,15.01.2019 04:15,,75,Buffet
+Salg,800,15.01.2019 09:31,,75,Buffet
+Salg,1300,15.01.2019 10:45,,75,Buffet
+Salg,600,15.01.2019 11:37,,75,Buffet
+Salg,1300,15.01.2019 12:01,,75,Buffet
+Salg,600,15.01.2019 12:38,,75,Buffet
+Salg,800,15.01.2019 12:46,,75,Buffet
+Salg,1500,15.01.2019 12:46,,75,Buffet
+Salg,1300,15.01.2019 13:48,,75,Buffet
+Salg,1400,15.01.2019 14:08,,75,Buffet
+Salg,800,15.01.2019 15:08,,75,Buffet
+Salg,1500,15.01.2019 15:54,,75,Buffet
+Salg,5000,15.01.2019 16:28,,75,Buffet
+Salg,1400,15.01.2019 17:17,,75,Buffet
+Salg,2000,15.01.2019 17:20,,75,Buffet
+Salg,800,15.01.2019 20:23,,75,Buffet
+Salg,1400,15.01.2019 23:25,,75,Buffet
+Gebyr,-1500,16.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,23400,16.01.2019 00:59,Udbetaling til konto,1500,Overførsel
+Salg,800,16.01.2019 11:46,,75,Buffet
+Salg,1400,16.01.2019 14:16,,75,Buffet
+Salg,800,16.01.2019 15:18,,75,Buffet
+Salg,1400,16.01.2019 15:43,,75,Buffet
+Salg,1400,16.01.2019 15:53,,75,Buffet
+Salg,2400,16.01.2019 16:13,,75,Buffet
+Salg,800,16.01.2019 17:33,,75,Buffet
+Salg,1400,16.01.2019 19:30,,75,Buffet
+Salg,1400,16.01.2019 20:11,,75,Buffet
+Salg,3800,16.01.2019 20:47,,75,Buffet
+Salg,3300,16.01.2019 20:48,,75,Buffet
+Salg,400,16.01.2019 21:01,,75,Buffet
+Salg,1000,16.01.2019 22:40,,75,Buffet
+Gebyr,-975,17.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,19325,17.01.2019 00:59,Udbetaling til konto,975,Overførsel
+Salg,1500,17.01.2019 03:05,,75,Buffet
+Salg,1300,17.01.2019 10:57,,75,Buffet
+Salg,800,17.01.2019 13:06,,75,Buffet
+Salg,1000,17.01.2019 13:14,,75,Buffet
+Salg,1000,17.01.2019 13:16,,75,Buffet
+Salg,5000,17.01.2019 13:26,,75,Buffet
+Salg,1400,17.01.2019 13:36,,75,Buffet
+Salg,2900,17.01.2019 13:48,,75,Buffet
+Salg,1400,17.01.2019 15:10,,75,Buffet
+Salg,1200,17.01.2019 15:58,Øl,75,Øl & Vand
+Salg,600,17.01.2019 16:16,,75,Buffet
+Salg,500,17.01.2019 16:56,,75,Buffet
+Salg,2400,17.01.2019 17:10,,75,Buffet
+Salg,2400,17.01.2019 17:47,,75,Buffet
+Salg,1400,17.01.2019 18:11,,75,Buffet
+Salg,1400,17.01.2019 19:13,,75,Buffet
+Salg,1500,17.01.2019 19:57,,75,Buffet
+Salg,2800,17.01.2019 21:18,,75,Buffet
+Gebyr,-1350,18.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,29150,18.01.2019 00:59,Udbetaling til konto,1350,Overførsel
+Salg,1400,18.01.2019 01:05,,75,Buffet
+Salg,1300,18.01.2019 10:49,,75,Buffet
+Salg,1400,18.01.2019 11:22,,75,Buffet
+Salg,600,18.01.2019 13:32,,75,Buffet
+Salg,600,18.01.2019 14:16,,75,Buffet
+Salg,1300,18.01.2019 15:04,,75,Buffet
+Salg,1400,18.01.2019 15:25,,75,Buffet
+Salg,1500,18.01.2019 17:17,,75,Buffet
+Gebyr,-600,19.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,8900,19.01.2019 00:59,Udbetaling til konto,600,Overførsel
+Salg,1500,19.01.2019 11:13,,75,Buffet
+Gebyr,-75,20.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,1425,20.01.2019 00:59,Udbetaling til konto,75,Overførsel
+Salg,800,20.01.2019 12:10,,75,Buffet
+Gebyr,-75,21.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,725,21.01.2019 00:59,Udbetaling til konto,75,Overførsel
+Salg,1200,21.01.2019 11:04,Pålæg,75,Buffet
+Salg,1500,21.01.2019 14:07,,75,Buffet
+Salg,1500,21.01.2019 14:17,,75,Buffet
+Salg,1500,21.01.2019 16:32,,75,Buffet
+Salg,1300,21.01.2019 18:03,,75,Buffet
+Gebyr,-375,22.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,6625,22.01.2019 00:59,Udbetaling til konto,375,Overførsel
+Salg,1200,22.01.2019 16:27,,75,Buffet
+Salg,1300,22.01.2019 18:03,,75,Buffet
+Gebyr,-150,23.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,2350,23.01.2019 00:59,Udbetaling til konto,150,Overførsel
+Salg,1400,24.01.2019 21:55,,75,Buffet
+Gebyr,-75,25.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,1325,25.01.2019 00:59,Udbetaling til konto,75,Overførsel
+Salg,1300,25.01.2019 17:04,,75,Buffet
+Gebyr,-75,26.01.2019 00:59,Gebyr,,Gebyrer
+Overførsel,1225,26.01.2019 00:59,Udbetaling til konto,75,Overførsel

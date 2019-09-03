@@ -1,0 +1,27 @@
+kind,amount,dt,msg,fee,category
+Salg,1400,03.07.2019 09:43,,60,Buffet
+Salg,1400,03.07.2019 12:49,,60,Buffet
+Salg,1400,03.07.2019 12:51,,60,Buffet
+Gebyr,-180,03.07.2019 23:59,Gebyr,,Gebyrer
+Overførsel,4020,03.07.2019 23:59,Udbetaling til konto,180,Overførsel
+Salg,1400,08.07.2019 11:52,,60,Buffet
+Gebyr,-60,08.07.2019 23:59,Gebyr,,Gebyrer
+Overførsel,1340,08.07.2019 23:59,Udbetaling til konto,60,Overførsel
+Salg,1400,11.07.2019 11:04,,60,Buffet
+Salg,1500,11.07.2019 11:48,,60,Buffet
+Gebyr,-120,11.07.2019 23:59,Gebyr,,Gebyrer
+Overførsel,2780,11.07.2019 23:59,Udbetaling til konto,120,Overførsel
+Salg,1400,24.07.2019 20:32,,60,Buffet
+Gebyr,-60,24.07.2019 23:59,Gebyr,,Gebyrer
+Overførsel,1340,24.07.2019 23:59,Udbetaling til konto,60,Overførsel
+Salg,1000,25.07.2019 16:43,,60,Buffet
+Salg,1400,25.07.2019 20:58,,60,Buffet
+Gebyr,-120,25.07.2019 23:59,Gebyr,,Gebyrer
+Overførsel,2280,25.07.2019 23:59,Udbetaling til konto,120,Overførsel
+Salg,1400,26.07.2019 10:36,Red bull,60,Øl & Vand
+Gebyr,-60,26.07.2019 23:59,Gebyr,,Gebyrer
+Overførsel,1340,26.07.2019 23:59,Udbetaling til konto,60,Overførsel
+Salg,1400,31.07.2019 11:03,,60,Buffet
+Salg,1400,31.07.2019 12:30,,60,Buffet
+Gebyr,-120,31.07.2019 23:59,Gebyr,,Gebyrer
+Overførsel,2680,31.07.2019 23:59,Udbetaling til konto,120,Overførsel
