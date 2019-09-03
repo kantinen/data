@@ -1,0 +1,82 @@
+- category: Gebyrer
+  rules:
+  - description: >
+      'Diverse gebyrer.'
+    python: |
+      kind == 'Gebyr'
+- category: Overførsel
+  rules:
+  - description: >
+      'Overførsler til indbetalingskontoen'
+    python: |
+      kind == 'Overførsel'
+- category: Refundering
+  rules:
+  - description: >
+      'Der sker lejlighedsvise refunderinger; se selv hvor det skal trækkes fra'
+    python: |
+      kind == 'Refundering'
+- category: Slik
+  rules:
+  - description: >
+      'Slik'
+    python: |
+      kind == 'Salg' and \
+        'msg' in locals() and \
+        ('slik' in msg.lower()
+         or 'gifler' in msg.lower()
+         or 'nudler' in msg.lower()
+         or 'knoppers' in msg.lower()
+        )
+- category: Kort
+  rules:
+  - description: >
+      'Slik'
+    python: |
+      kind == 'Salg' and \
+        'msg' in locals() and \
+        ('slik' in msg.lower()
+         or 'kort' in msg.lower()
+         or 'koooooooooooort' in msg.lower()
+        )
+
+- category: Buffet
+  rules:
+  - description: >
+      Besked har noget med buffét at gøre.
+    python: |
+      'msg' in locals() and \
+        ('snask fra køleren' in msg.lower()
+        )
+- category: Øl & Vand
+  rules:
+  - description: >
+      Besked har noget med øl & vand at gøre.
+    python: |
+      'msg' in locals() and \
+        ('øl' in msg.lower()
+         or 'cider' in msg.lower()
+         or 'cola' in msg.lower()
+         or 'ipa' in msg.lower()
+         or 'sodavand' in msg.lower()
+         or 'guarana' in msg.lower()
+         or 'manatee' in msg.lower()
+         or 'snaps' in msg.lower()
+         or 'redbull' in msg.lower()
+         or 'red bull' in msg.lower()
+         or 'hehe min ven' in msg.lower()
+         or 'mathias' in msg.lower()
+         or 'faxe' in msg.lower()
+         or 'cocio' in msg.lower()
+         or 'fuzetea' in msg.lower()
+         or 'fuze tea' in msg.lower()
+         or 'kawaii' in msg.lower()
+         or 'drink' in msg.lower()
+         or 'redbul' in msg.lower()
+        )
+- category: Buffet
+  rules:
+  - description: >
+      Alt andet er buffet.
+    python: |
+      True
