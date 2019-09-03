@@ -82,7 +82,7 @@ def writecs(path, fieldnames, entries):
 def writers(path, results):
     with open(path, 'w') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Category', 'Sum'])
+        writer.writerow(['Konto', 'Opgør'])
         for r in results:
             writer.writerow(r)
 
