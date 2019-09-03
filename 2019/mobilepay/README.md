@@ -1,4 +1,4 @@
-For hvert måned, `dd`, finder man tre csv filer:
+For hver måned, `dd`, finder man tre csv filer:
 
   * `dd.csv` - det er selve dataen fra MobilePay efter lidt
     [oprydning](scripts/cleanup.sh).
