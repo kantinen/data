@@ -103,7 +103,7 @@ def main():
     sums = {category['category']: sum(entry['amount'] for entry in entries
                                       if entry['category'] == category['category'])
             for category in ruleset}
-    writers(rpath, sums.items())
+    writers(rpath, sorted(sums.items()))
 
 if __name__ == "__main__":
     main()
