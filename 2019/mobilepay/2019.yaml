@@ -16,6 +16,14 @@
       'Der sker lejlighedsvise refunderinger; se selv hvor det skal trækkes fra'
     python: |
       kind == 'Refundering'
+- category: Påskeevent
+  rules:
+  - description: >
+      'Påskeevent'
+    python: |
+      kind == 'Salg' and \
+        dt > getDT('22.03.2019 17:00') and \
+        dt < getDT('23.03.2019 04:00')
 - category: Slik
   rules:
   - description: >
