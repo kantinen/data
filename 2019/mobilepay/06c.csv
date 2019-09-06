@@ -1,27 +1,173 @@
 kind,amount,dt,msg,fee,category
-Salg,1400,03.07.2019 09:43,,60,Buffet
-Salg,1400,03.07.2019 12:49,,60,Buffet
-Salg,1400,03.07.2019 12:51,,60,Buffet
-Gebyr,-180,03.07.2019 23:59,Gebyr,,Gebyrer
-Overførsel,4020,03.07.2019 23:59,Udbetaling til konto,180,Overførsel
-Salg,1400,08.07.2019 11:52,,60,Buffet
-Gebyr,-60,08.07.2019 23:59,Gebyr,,Gebyrer
-Overførsel,1340,08.07.2019 23:59,Udbetaling til konto,60,Overførsel
-Salg,1400,11.07.2019 11:04,,60,Buffet
-Salg,1500,11.07.2019 11:48,,60,Buffet
-Gebyr,-120,11.07.2019 23:59,Gebyr,,Gebyrer
-Overførsel,2780,11.07.2019 23:59,Udbetaling til konto,120,Overførsel
-Salg,1400,24.07.2019 20:32,,60,Buffet
-Gebyr,-60,24.07.2019 23:59,Gebyr,,Gebyrer
-Overførsel,1340,24.07.2019 23:59,Udbetaling til konto,60,Overførsel
-Salg,1000,25.07.2019 16:43,,60,Buffet
-Salg,1400,25.07.2019 20:58,,60,Buffet
-Gebyr,-120,25.07.2019 23:59,Gebyr,,Gebyrer
-Overførsel,2280,25.07.2019 23:59,Udbetaling til konto,120,Overførsel
-Salg,1400,26.07.2019 10:36,Red bull,60,Øl & Vand
-Gebyr,-60,26.07.2019 23:59,Gebyr,,Gebyrer
-Overførsel,1340,26.07.2019 23:59,Udbetaling til konto,60,Overførsel
-Salg,1400,31.07.2019 11:03,,60,Buffet
-Salg,1400,31.07.2019 12:30,,60,Buffet
-Gebyr,-120,31.07.2019 23:59,Gebyr,,Gebyrer
-Overførsel,2680,31.07.2019 23:59,Udbetaling til konto,120,Overførsel
+Salg,500,03.06.2019 11:34,,60,Buffet
+Salg,500,03.06.2019 11:35,,60,Buffet
+Salg,1300,03.06.2019 11:58,,60,Buffet
+Salg,1600,03.06.2019 12:17,,60,Buffet
+Salg,1200,03.06.2019 12:42,,60,Buffet
+Salg,1300,03.06.2019 13:11,,60,Buffet
+Salg,200,03.06.2019 14:17,,60,Buffet
+Salg,800,03.06.2019 14:54,,60,Buffet
+Salg,1000,03.06.2019 15:31,,60,Buffet
+Salg,800,03.06.2019 15:32,,60,Buffet
+Salg,1500,03.06.2019 15:56,,60,Buffet
+Salg,1300,03.06.2019 15:56,,60,Buffet
+Salg,800,03.06.2019 16:15,,60,Buffet
+Salg,800,03.06.2019 16:15,,60,Buffet
+Salg,1500,03.06.2019 16:22,,60,Buffet
+Salg,500,03.06.2019 17:15,,60,Buffet
+Salg,400,03.06.2019 17:40,,60,Buffet
+Gebyr,-1020,03.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,14980,03.06.2019 23:59,Udbetaling til konto,1020,Overførsel
+Salg,600,04.06.2019 00:21,,60,Buffet
+Salg,800,04.06.2019 08:34,,60,Buffet
+Salg,2000,04.06.2019 10:09,,60,Buffet
+Salg,800,04.06.2019 10:14,,60,Buffet
+Salg,600,04.06.2019 10:16,,60,Buffet
+Salg,1000,04.06.2019 10:27,,60,Buffet
+Salg,4000,04.06.2019 10:50,,60,Buffet
+Salg,500,04.06.2019 11:20,,60,Buffet
+Salg,1000,04.06.2019 11:40,,60,Buffet
+Salg,600,04.06.2019 11:59,,60,Buffet
+Salg,1300,04.06.2019 12:09,,60,Buffet
+Salg,600,04.06.2019 12:31,,60,Buffet
+Salg,1000,04.06.2019 12:48,,60,Buffet
+Salg,1000,04.06.2019 14:55,,60,Buffet
+Salg,400,04.06.2019 16:59,,60,Buffet
+Salg,1500,04.06.2019 17:52,,60,Buffet
+Salg,300,04.06.2019 20:38,,60,Buffet
+Salg,1000,04.06.2019 22:41,,60,Buffet
+Gebyr,-1080,04.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,17920,04.06.2019 23:59,Udbetaling til konto,1080,Overførsel
+Salg,1500,05.06.2019 08:29,,60,Buffet
+Salg,1500,05.06.2019 08:58,,60,Buffet
+Salg,1300,05.06.2019 09:26,,60,Buffet
+Salg,1300,05.06.2019 10:21,,60,Buffet
+Salg,1300,05.06.2019 11:43,,60,Buffet
+Salg,1000,05.06.2019 12:04,,60,Buffet
+Salg,2000,05.06.2019 12:29,,60,Buffet
+Salg,1000,05.06.2019 12:29,,60,Buffet
+Salg,300,05.06.2019 13:19,,60,Buffet
+Salg,500,05.06.2019 15:14,,60,Buffet
+Gebyr,-600,05.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,11100,05.06.2019 23:59,Udbetaling til konto,600,Overførsel
+Salg,1000,06.06.2019 08:36,,60,Buffet
+Salg,1300,06.06.2019 09:18,,60,Buffet
+Salg,500,06.06.2019 10:43,,60,Buffet
+Salg,500,06.06.2019 10:43,,60,Buffet
+Salg,650,06.06.2019 10:44,,60,Buffet
+Salg,1400,06.06.2019 10:44,,60,Buffet
+Salg,500,06.06.2019 11:34,,60,Buffet
+Salg,1000,06.06.2019 12:10,,60,Buffet
+Salg,1500,06.06.2019 12:41,Toasties,60,Buffet
+Salg,3600,06.06.2019 15:10,,60,Buffet
+Salg,7200,06.06.2019 15:13,Rosé,60,Buffet
+Salg,1000,06.06.2019 15:30,,60,Buffet
+Salg,2000,06.06.2019 19:23,,60,Buffet
+Salg,500,06.06.2019 21:52,toast \ud83e\udd6a,60,Buffet
+Gebyr,-840,06.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,21810,06.06.2019 23:59,Udbetaling til konto,840,Overførsel
+Salg,1500,07.06.2019 09:34,,60,Buffet
+Salg,1000,07.06.2019 11:45,,60,Buffet
+Salg,2800,07.06.2019 12:36,,60,Buffet
+Salg,600,07.06.2019 19:19,,60,Buffet
+Salg,3600,07.06.2019 19:46,,60,Buffet
+Salg,1400,07.06.2019 20:22,,60,Buffet
+Gebyr,-360,07.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,10540,07.06.2019 23:59,Udbetaling til konto,360,Overførsel
+Salg,1400,08.06.2019 07:23,,60,Buffet
+Salg,1400,08.06.2019 08:35,,60,Buffet
+Salg,1000,08.06.2019 12:59,,60,Buffet
+Gebyr,-180,08.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,3620,08.06.2019 23:59,Udbetaling til konto,180,Overførsel
+Salg,300,09.06.2019 11:06,,60,Buffet
+Salg,300,09.06.2019 18:51,,60,Buffet
+Gebyr,-120,09.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,480,09.06.2019 23:59,Udbetaling til konto,120,Overførsel
+Salg,500,10.06.2019 08:30,,60,Buffet
+Salg,500,10.06.2019 10:08,,60,Buffet
+Salg,800,10.06.2019 11:21,,60,Buffet
+Salg,1000,10.06.2019 12:28,,60,Buffet
+Salg,500,10.06.2019 12:44,,60,Buffet
+Salg,3000,10.06.2019 13:16,,60,Buffet
+Salg,400,10.06.2019 14:16,,60,Buffet
+Salg,1500,10.06.2019 15:16,,60,Buffet
+Salg,800,10.06.2019 16:06,Snit,60,Buffet
+Salg,500,10.06.2019 16:14,,60,Buffet
+Salg,2000,10.06.2019 20:37,,60,Buffet
+Salg,1600,10.06.2019 22:23,,60,Buffet
+Gebyr,-720,10.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,12380,10.06.2019 23:59,Udbetaling til konto,720,Overførsel
+Salg,1300,11.06.2019 09:16,,60,Buffet
+Salg,1200,11.06.2019 09:25,,60,Buffet
+Salg,800,11.06.2019 10:15,,60,Buffet
+Salg,1300,11.06.2019 12:16,,60,Buffet
+Salg,200,11.06.2019 12:43,,60,Buffet
+Salg,1200,11.06.2019 12:48,,60,Buffet
+Salg,1400,11.06.2019 15:15,,60,Buffet
+Salg,800,11.06.2019 15:44,Sssssssssnit,60,Buffet
+Salg,800,11.06.2019 15:44,Kinder boiii,60,Buffet
+Salg,1400,11.06.2019 15:48,,60,Buffet
+Salg,1000,11.06.2019 15:52,,60,Buffet
+Salg,1300,11.06.2019 15:55,,60,Buffet
+Salg,400,11.06.2019 20:48,,60,Buffet
+Gebyr,-780,11.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,12320,11.06.2019 23:59,Udbetaling til konto,780,Overførsel
+Salg,400,12.06.2019 08:39,,60,Buffet
+Salg,1300,12.06.2019 09:15,,60,Buffet
+Salg,1600,12.06.2019 10:25,,60,Buffet
+Salg,1600,12.06.2019 10:53,,60,Buffet
+Salg,800,12.06.2019 10:56,,60,Buffet
+Salg,1900,12.06.2019 12:13,,60,Buffet
+Salg,1400,12.06.2019 13:13,,60,Buffet
+Salg,1400,12.06.2019 13:14,,60,Buffet
+Salg,400,12.06.2019 15:00,,60,Buffet
+Salg,1400,12.06.2019 15:16,,60,Buffet
+Salg,1400,12.06.2019 15:32,,60,Buffet
+Salg,1000,12.06.2019 15:44,Toust,60,Buffet
+Salg,3300,12.06.2019 15:56,,60,Buffet
+Salg,1500,12.06.2019 18:00,Tak Netcompany,60,Buffet
+Gebyr,-840,12.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,18560,12.06.2019 23:59,Udbetaling til konto,840,Overførsel
+Salg,1000,13.06.2019 09:41,,60,Buffet
+Salg,1500,13.06.2019 12:38,,60,Buffet
+Salg,1500,13.06.2019 12:54,,60,Buffet
+Salg,1300,13.06.2019 14:11,,60,Buffet
+Salg,3500,13.06.2019 17:35,,60,Buffet
+Salg,1500,13.06.2019 18:03,,60,Buffet
+Salg,1000,13.06.2019 20:00,,60,Buffet
+Gebyr,-420,13.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,10880,13.06.2019 23:59,Udbetaling til konto,420,Overførsel
+Salg,1500,14.06.2019 01:44,,60,Buffet
+Salg,800,14.06.2019 12:22,,60,Buffet
+Salg,1400,14.06.2019 14:47,,60,Buffet
+Salg,1400,14.06.2019 15:18,,60,Buffet
+Salg,1350,14.06.2019 15:20,,60,Buffet
+Gebyr,-300,14.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,6150,14.06.2019 23:59,Udbetaling til konto,300,Overførsel
+Salg,1500,15.06.2019 10:53,,60,Buffet
+Salg,300,15.06.2019 13:28,,60,Buffet
+Gebyr,-120,15.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,1680,15.06.2019 23:59,Udbetaling til konto,120,Overførsel
+Salg,2800,16.06.2019 20:05,2 ale 16,60,Buffet
+Gebyr,-60,16.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,2740,16.06.2019 23:59,Udbetaling til konto,60,Overførsel
+Salg,4200,17.06.2019 11:07,3x GT,60,Buffet
+Salg,1400,17.06.2019 13:09,,60,Buffet
+Salg,1400,17.06.2019 14:40,,60,Buffet
+Salg,1400,17.06.2019 14:42,,60,Buffet
+Salg,1300,17.06.2019 15:41,,60,Buffet
+Salg,4200,17.06.2019 16:58,3 ale 16,60,Buffet
+Gebyr,-360,17.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,13540,17.06.2019 23:59,Udbetaling til konto,360,Overførsel
+Salg,1000,18.06.2019 12:50,,60,Buffet
+Gebyr,-60,18.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,940,18.06.2019 23:59,Udbetaling til konto,60,Overførsel
+Salg,6000,19.06.2019 23:26,,60,Buffet
+Gebyr,-60,19.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,5940,19.06.2019 23:59,Udbetaling til konto,60,Overførsel
+Salg,1500,20.06.2019 16:53,,60,Buffet
+Gebyr,-60,20.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,1440,20.06.2019 23:59,Udbetaling til konto,60,Overførsel
+Salg,1200,21.06.2019 22:37,,60,Buffet
+Gebyr,-60,21.06.2019 23:59,Gebyr,,Gebyrer
+Overførsel,1140,21.06.2019 23:59,Udbetaling til konto,60,Overførsel
