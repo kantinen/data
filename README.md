@@ -8,6 +8,7 @@ afbenyttelse.
 
 ## Data gennem årene
 
+* [2019](2019)
 * [2018](2018)
 
 ## Ønsker du mere data?
