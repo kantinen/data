@@ -1,4 +1,4 @@
-# Salgs data fra Ven
+# Salgsdata fra Ven
 
 Ven er vores venlige Øl & Vand-automat. Ven skiller sig ud i kantinen
 i og med man ikke skal bruge et kantinekort for at trække varer i
